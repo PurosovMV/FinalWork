@@ -1,5 +1,0 @@
-# MacOs-specific files
-.DS_Store
-.idea
-*.iml
-/out/
