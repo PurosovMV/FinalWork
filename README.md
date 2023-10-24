@@ -8,22 +8,22 @@
 
 ![1.png](https://github.com/PurosovMV/FinalWork/blob/main/img/1.png?raw=true)
 
-1. Создать директорию, переместить файл туда.
+2. Создать директорию, переместить файл туда.
 
-![2.png]([img\2.png](https://github.com/PurosovMV/FinalWork/blob/main/img/1.png?raw=true))
+![2.png](https://github.com/PurosovMV/FinalWork/blob/main/img/1.png?raw=true)
 
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
 из этого репозитория.
 
-![3.png]([img\3.png](https://github.com/PurosovMV/FinalWork/blob/main/img/1.png?raw=true))
+![3.png](https://github.com/PurosovMV/FinalWork/blob/main/img/1.png?raw=true)
 
 4. Установить и удалить deb-пакет с помощью dpkg.
 
-![4.png]([img\4.png](https://github.com/PurosovMV/FinalWork/blob/main/img/1.png?raw=true))
+![4.png](https://github.com/PurosovMV/FinalWork/blob/main/img/1.png?raw=true)
 
 5. Выложить историю команд в терминале ubuntu
 
-![5.png]([img\5.png](https://github.com/PurosovMV/FinalWork/blob/main/img/1.png?raw=true))
+![5.png](https://github.com/PurosovMV/FinalWork/blob/main/img/1.png?raw=true)
 
 6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние
 животные и вьючные животные, в составы которых в случае домашних
