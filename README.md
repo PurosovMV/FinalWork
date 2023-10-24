@@ -6,7 +6,7 @@
 ослы), а затем объединить их. Просмотреть содержимое созданного файла.
 Переименовать файл, дав ему новое имя (Друзья человека).
 
-![1.png]([img\1.png](https://github.com/PurosovMV/FinalWork/blob/main/img/1.png?raw=true))
+![1.png](https://github.com/PurosovMV/FinalWork/blob/main/img/1.png?raw=true)
 
 1. Создать директорию, переместить файл туда.
 
