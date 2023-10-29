@@ -179,7 +179,7 @@ SELECT id, name, birthDate, genius_id FROM YoungAnimals;
 
 14.5 Реализовать навигацию по меню
 
-[Посмотреть код](FinalWork/app)
+[Посмотреть код](https://github.com/PurosovMV/FinalWork/tree/main#:~:text=4%20days%20ago-,app/src,-add%20javaApp)
 
 15.    Создайте класс Счетчик, у которого есть метод add(), увеличивающий̆
 значение внутренней̆int переменной̆на 1 при нажатие “Завести новое
