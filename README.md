@@ -179,9 +179,33 @@ SELECT id, name, birthDate, genius_id FROM YoungAnimals;
 
 14.5 Реализовать навигацию по меню
 
+[Посмотреть код](FinalWork/app)
+
 15.    Создайте класс Счетчик, у которого есть метод add(), увеличивающий̆
 значение внутренней̆int переменной̆на 1 при нажатие “Завести новое
 животное” Сделайте так, чтобы с объектом такого типа можно было работать в
 блоке try-with-resources. Нужно бросить исключение, если работа с объектом
 типа счетчик была не в ресурсном try и/или ресурс остался открыт. Значение
 считать в ресурсе try, если при заведения животного заполнены все поля
+
+Данная задача реализована в классе View
+
+```java
+private static class Counter implements AutoCloseable {
+        private int count = 0;
+
+        public Counter start() {
+            count ++;
+            return this;
+        }
+        public void add() {
+            count ++;
+        }
+        @Override
+        public void close() throws Exception {
+            if (this.count == 1000) {
+                throw new Exception("Counter should be used in try-with-resources block!");
+            }
+        }
+    }
+```
